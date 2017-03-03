@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chai-last:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringJavaConfig.war">
+      <element id="artifact" artifact-name="Chai-last:war exploded" />
+    </root>
+  </artifact>
+</component>
